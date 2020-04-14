@@ -1,0 +1,14 @@
+.first {
+    padding: 20px;
+    margin: 20px;
+    background-color: darkgray;
+    border-radius: 30px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+img {
+    height: 20px;
+}
